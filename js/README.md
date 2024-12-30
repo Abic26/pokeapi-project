@@ -1,0 +1,1 @@
+aca iria todo el js con la logia que se va a utilizar para mostrar los datos
